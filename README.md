@@ -46,3 +46,5 @@
 
 ---
 Currently Working on
+- API and normal web performance on lousystems
+- url shortener on w8k
