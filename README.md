@@ -47,5 +47,5 @@
 
 ---
 Currently Working on:
-- API and normal web performance on lousystems
-- url shortener on w8k
+- API and normal web performance on [lousystems](https://lousystems.de/) 
+- url shortener on [w8k](https://w8k.de/) 
