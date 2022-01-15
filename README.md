@@ -44,7 +44,8 @@
  <div align="center"> <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"></div>
 <br/>  
 
-
+---
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lousystems)](https://github.com/LordDashMe/github-contribution-stats/)
 ---
 Currently Working on:
 - API and normal web performance on [lousystems.de](https://lousystems.de/) 
