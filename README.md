@@ -45,8 +45,6 @@
 <br/>  
 
 ---
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lousystems)](https://github.com/LordDashMe/github-contribution-stats/)
----
 Currently Working on:
 - API and normal web performance on [lousystems.de](https://lousystems.de/) 
 - url shortener on [w8k.de](https://w8k.de/) 
